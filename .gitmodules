@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/arunpranav-at/ayudhra-frontend-web
+[submodule "backend"]
+	path = backend
+	url = https://github.com/RaghulSub/AyurNutri-Prototype-Backend.git
