@@ -21,7 +21,7 @@
 
 ## 🎯 Project Overview
 
-HEXABYTE is a revolutionary cloud-first, multi-tenant practice management and nutrient analysis platform specifically designed for Ayurvedic dietitians. Our platform bridges the gap between traditional Ayurvedic principles and modern digital healthcare solutions, providing a comprehensive ecosystem for practitioners, patients, and healthcare administrators.
+Team HEXABYTE has built a revolutionary cloud-first, multi-tenant practice management and nutrient analysis platform specifically designed for Ayurvedic dietitians. Our platform bridges the gap between traditional Ayurvedic principles and modern digital healthcare solutions, providing a comprehensive ecosystem for practitioners, patients, and healthcare administrators.
 
 ### 🌟 Key Highlights
 
